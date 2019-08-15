@@ -2,6 +2,10 @@ package serieFibonacci;
 import java.util.Scanner;
 
 public class SeriFibonacci {
+	/**
+	 *
+	 * @Elba
+	 */
 
 	public static void main(String[] args) {
 		int numeroUno=0;
